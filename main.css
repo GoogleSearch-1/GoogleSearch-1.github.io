@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Lucida Console';
+    size: 200px;
+    color: lightslategray;
+}
+
+html {
+    background-color: azure;
+
+}
+
+img {
+    margin-right:5px;
+    float:left;
+}
+
+body {
+    float: right;
+    font-family: 'Comfortaa';
+}
+
+h2 {
+    font-family:'Trebuchet MS';
+    color: rgb(1, 62, 62);
+}
